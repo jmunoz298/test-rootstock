@@ -67,11 +67,11 @@ header-includes: '<!--
 
   <link rel="alternate" type="application/pdf" href="https://jmunoz298.github.io/test-rootstock/manuscript.pdf" />
 
-  <link rel="alternate" type="text/html" href="https://jmunoz298.github.io/test-rootstock/v/4bca350f0899dafd893a96b4e1002a0ac9ed07cd/" />
+  <link rel="alternate" type="text/html" href="https://jmunoz298.github.io/test-rootstock/v/16607ef9d939e33aa419773cba7eb08dee2132ad/" />
 
-  <meta name="manubot_html_url_versioned" content="https://jmunoz298.github.io/test-rootstock/v/4bca350f0899dafd893a96b4e1002a0ac9ed07cd/" />
+  <meta name="manubot_html_url_versioned" content="https://jmunoz298.github.io/test-rootstock/v/16607ef9d939e33aa419773cba7eb08dee2132ad/" />
 
-  <meta name="manubot_pdf_url_versioned" content="https://jmunoz298.github.io/test-rootstock/v/4bca350f0899dafd893a96b4e1002a0ac9ed07cd/manuscript.pdf" />
+  <meta name="manubot_pdf_url_versioned" content="https://jmunoz298.github.io/test-rootstock/v/16607ef9d939e33aa419773cba7eb08dee2132ad/manuscript.pdf" />
 
   <meta property="og:type" content="article" />
 
@@ -103,9 +103,9 @@ title: Manual Atlas.ti
 
 <small><em>
 This manuscript
-([permalink](https://jmunoz298.github.io/test-rootstock/v/4bca350f0899dafd893a96b4e1002a0ac9ed07cd/))
+([permalink](https://jmunoz298.github.io/test-rootstock/v/16607ef9d939e33aa419773cba7eb08dee2132ad/))
 was automatically generated
-from [jmunoz298/test-rootstock@4bca350](https://github.com/jmunoz298/test-rootstock/tree/4bca350f0899dafd893a96b4e1002a0ac9ed07cd)
+from [jmunoz298/test-rootstock@16607ef](https://github.com/jmunoz298/test-rootstock/tree/16607ef9d939e33aa419773cba7eb08dee2132ad)
 on April 12, 2020.
 </em></small>
 
