@@ -1,7 +1,7 @@
 # Output directory containing the formatted manuscript
 
 The [`gh-pages`](https://github.com/jmunoz298/test-rootstock/tree/gh-pages) branch hosts the contents of this directory at <https://jmunoz298.github.io/test-rootstock/>.
-The permalink for this webpage version is <https://jmunoz298.github.io/test-rootstock/v/4bca350f0899dafd893a96b4e1002a0ac9ed07cd/>.
+The permalink for this webpage version is <https://jmunoz298.github.io/test-rootstock/v/16607ef9d939e33aa419773cba7eb08dee2132ad/>.
 To redirect to the permalink for the latest manuscript version at anytime, use the link <https://jmunoz298.github.io/test-rootstock/v/freeze/>.
 
 ## Files
@@ -35,4 +35,4 @@ Verifying timestamps with the `ots verify` command requires running a local bitc
 ## Source
 
 The manuscripts in this directory were built from
-[`4bca350f0899dafd893a96b4e1002a0ac9ed07cd`](https://github.com/jmunoz298/test-rootstock/commit/4bca350f0899dafd893a96b4e1002a0ac9ed07cd).
+[`16607ef9d939e33aa419773cba7eb08dee2132ad`](https://github.com/jmunoz298/test-rootstock/commit/16607ef9d939e33aa419773cba7eb08dee2132ad).
